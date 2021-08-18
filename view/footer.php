@@ -1,0 +1,1 @@
+<div class="copyright"><p>Copyright &copy; 2007-<?php echo date("Y") ?> || All Rights Reserved by <a href="https://www.facebook.com/cmxmunna" class='green f-size20' target='_blank'>Munna Abdullah</a></p></div>
